@@ -4,6 +4,8 @@ Code for PLTW Unit 3-4. Other unit code has been corrupted!
 ## NOTE
 Some PDF files are left blank, intentionally. Additionally, the folders will contain odd sub-folders, this is due to me using the JetBrains IntelliJ IDE!
 
+The code may or may not be correct since I created this all myself without the help of a teacher!
+
 Feel free to look at the notes, it also contains some of the code there to, some in .java (opens in separate tab) extensions while others in .zip (downloads to your PC)!
 
 A cheat sheet is also provided at the very end of the notes to help study for the AP Exam!
