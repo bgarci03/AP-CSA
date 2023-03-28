@@ -1,6 +1,8 @@
 # AP-CSA
 Code for PLTW Unit 3-4. Other unit code has been corrupted!
 
+Created by a student self-teaching themself!
+
 ## NOTE
 Some PDF files are left blank, intentionally. Additionally, the folders will contain odd sub-folders, this is due to me using the JetBrains IntelliJ IDE!
 
