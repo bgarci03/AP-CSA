@@ -1,0 +1,22 @@
+public class Owl extends Animal
+{
+  public Owl()
+  {
+
+  }
+
+  public Owl(String food, boolean nocturnal, double aveLifeSpan)
+  {
+    super(food, nocturnal, aveLifeSpan);
+  }
+
+  public void hunt()
+  {
+    System.out.println("Hunting for food!");
+  }
+
+  public void speak()
+  {
+    System.out.println("I'm an owl!");
+  }
+}
